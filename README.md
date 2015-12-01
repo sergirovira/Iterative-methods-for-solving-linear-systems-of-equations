@@ -17,7 +17,7 @@ to you linear system read the comments in the code.
 
 It implements the iterative method steepest descent. 
 
-#[functions.c](https://github.com/sergirovira/Iterative-methods-for-solving-linear-systems-of-equations/blob/master/functions.c)#
+#[functions.c](https://github.com/sergirovira/Iterative-methods-for-solving-linear-systems-of-equations/blob/master/funcions.c)#
 
 It contains different functions which help with
 computation and vector visualization.
